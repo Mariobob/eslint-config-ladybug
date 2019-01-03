@@ -39,6 +39,15 @@ yarn global add babel-eslint eslint-plugin-react
 ```
 > Repeating once again: remove `-g|global` if using a locally installed eslint
 
+## TypeScript
+A TSLint config is also available to use, to use this you just need `tslint` installed.
+```json
+{
+  "extends": ["eslint-config-ladybug/typescript"]
+}
+```
+The TSLint preset also extends `tslint:recommended` so you don't need that.
+
 ## Contributing
 You could change some rule and submit it as a Pull Request but the chances are gonna be low depends if i like that style.
 

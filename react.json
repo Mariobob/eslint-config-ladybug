@@ -92,7 +92,6 @@
     }],
     "no-array-constructor": "error",
     "no-mixed-operators": "error",
-    "no-multi-assign": "error",
     "no-new-object": "error",
     "no-tabs": "error",
     "no-whitespace-before-property": "error",
