@@ -95,7 +95,6 @@
     "no-new-object": "error",
     "no-tabs": "error",
     "no-whitespace-before-property": "error",
-    "operator-linebreak": ["error", "none"],
     "semi-spacing": ["error", {
       "before": false,
       "after": true
